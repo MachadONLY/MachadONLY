@@ -9,4 +9,4 @@
 
 # <samp>Tech Stack</samp>
 
-[![My Skills](https://skillicons.dev/icons?i=react,typescript,tailwind,javascript,figma,java,nodejs,nextjs,aws,mysql,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,tailwind,javascript,figma,java,nodejs,nextjs,aws,mysql,docker,html,css)](https://skillicons.dev)
