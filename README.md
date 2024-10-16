@@ -2,15 +2,13 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-machado-838501227/)
 
-👨‍💻 Engenheiro de Software | Desenvolvedor Front-End
+I have experience in infrastructure, networking, security, and the latest technologies like Kubernetes and containers. I'm passionate about DevOps and DevSecOps, always seeking ways to optimize operations and enhance security in complex environments.
 
-🚀 Olá! Eu sou Gabriel Machado, um estudante de Engenharia de Software na FIAP. Misturando paixão pela tecnologia e habilidades afiadas, estou constantemente empenhado em ampliar meu conhecimento para desenvolver soluções verdadeiramente inovadoras.
+I believe technology should be accessible to everyone, and I work to democratize knowledge and facilitate continuous learning in the professional environment. My mission is to make technological solutions simple and effective, creating a more collaborative and innovative space.
 
-🎓 Ao longo da minha jornada acadêmica, dominei várias tecnologias e habilidades fundamentais no mercado atual. Adquiri um amplo conjunto de habilidades por meio de bootcamps, experiências práticas e aprendizados pessoais.
+I'm here to share knowledge and promote a culture of information exchange because I believe individual growth strengthens collective success. Let’s connect and explore how to transform technological challenges into growth opportunities together!
 
-🌐 Conhecimento em Front-end e Back-end: Estou familiarizado com Node.js, MySQL, Next.js, React, Typescript e Vue, capaz de desenvolver tanto o front-end quanto o back-end de aplicações web. Nos últimos meses, desenvolvi diversas aplicações e projetos, atuando como freelancer e enfrentando diversos desafios tecnológicos que testaram minhas habilidades e conhecimentos.
-
-🔍 Aprendizado e Adaptabilidade: Sou proativo, aprendo rapidamente e estou sempre disposto a enfrentar novos desafios. Possuo proficiência em inglês, habilidades eficazes de comunicação e capacidade de resolver problemas, além de trabalhar em equipe.
+I have knowledge in development, CI/CD, and GitOps, with a focus on automation and process optimization. Always looking for practical and efficient solutions, applying DevOps best practices.
 
 🔗 Cheque um pouquinho do meu trabalho: https://portfolio-gabrielmachado.netlify.app
 
